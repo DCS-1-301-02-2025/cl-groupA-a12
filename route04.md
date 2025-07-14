@@ -5,6 +5,10 @@
 ```graphviz
 digraph {
     edge [dir=both]
+
+     カレッジハウス扶桑 -> 各棟 [label=徒歩]
+
     
 }
 ```
+
